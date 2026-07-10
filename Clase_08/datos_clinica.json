@@ -1,0 +1,152 @@
+[
+  {
+    "cedula": 89076541,
+    "nombre": "Ana Gómez",
+    "edad": 34,
+    "genero": "F",
+    "provincia": "Heredia",
+    "canton": "Barva",
+    "enfermedades": ["migraña", "gripe"],
+    "medicamentos": ["acetaminofen", "ibuprofeno"]
+  },
+  {
+    "cedula": 31321321,
+    "nombre": "Luis Mora",
+    "edad": 45,
+    "genero": "M",
+    "provincia": "Cartago",
+    "canton": "Pacayas",
+    "enfermedades": ["gastritis"],
+    "medicamentos": ["antiacido", "omeprazol"]
+  },
+  {
+    "cedula": 87539856,
+    "nombre": "Sofía Salas",
+    "edad": 29,
+    "genero": "F",
+    "provincia": "San Jose",
+    "canton": "Pavas",
+    "enfermedades": ["tos cronica", "alergia"],
+    "medicamentos": ["jarabe", "loratadina"]
+  },
+  {
+    "cedula": 45522221,
+    "nombre": "Carlos Rojas",
+    "edad": 50,
+    "genero": "M",
+    "provincia": "Limón",
+    "canton": "Puerto Viejo",
+    "enfermedades": ["migraña", "hipertension"],
+    "medicamentos": ["acetaminofen", "losartan"]
+  },
+  {
+    "cedula": 45354632,
+    "nombre": "Elena Castro",
+    "edad": 62,
+    "genero": "F",
+    "provincia": "Guanacaste",
+    "canton": "Liberia",
+    "enfermedades": ["dolor cronico", "gripe"],
+    "medicamentos": ["acetaminofen", "tramadol"]
+  },
+  {
+    "cedula": 112233445,
+    "nombre": "David Solano",
+    "edad": 38,
+    "genero": "M",
+    "provincia": "San Jose",
+    "canton": "Desamparados",
+    "enfermedades": ["diabetes tipo 2"],
+    "medicamentos": ["insulina", "metformina"]
+  },
+  {
+    "cedula": 223344556,
+    "nombre": "Laura Méndez",
+    "edad": 55,
+    "genero": "F",
+    "provincia": "Alajuela",
+    "canton": "San Ramón",
+    "enfermedades": ["artritis", "hipertension"],
+    "medicamentos": ["ibuprofeno", "losartan"]
+  },
+  {
+    "cedula": 334455667,
+    "nombre": "Miguel Pérez",
+    "edad": 22,
+    "genero": "M",
+    "provincia": "Heredia",
+    "canton": "Santo Domingo",
+    "enfermedades": ["asma"],
+    "medicamentos": ["salbutamol"]
+  },
+  {
+    "cedula": 445566778,
+    "nombre": "Carmen Ruiz",
+    "edad": 48,
+    "genero": "F",
+    "provincia": "Cartago",
+    "canton": "Tres Ríos",
+    "enfermedades": ["diabetes tipo 2", "colesterol alto"],
+    "medicamentos": ["metformina", "atorvastatina"]
+  },
+  {
+    "cedula": 556677889,
+    "nombre": "Jorge Alfaro",
+    "edad": 70,
+    "genero": "M",
+    "provincia": "Puntarenas",
+    "canton": "Cóbano",
+    "enfermedades": ["hipertension"],
+    "medicamentos": ["losartan"]
+  },
+  {
+    "cedula": 667788990,
+    "nombre": "Isabel Solís",
+    "edad": 31,
+    "genero": "F",
+    "provincia": "San Jose",
+    "canton": "Moravia",
+    "enfermedades": ["migraña", "ansiedad"],
+    "medicamentos": ["acetaminofen", "fluoxetina"]
+  },
+  {
+    "cedula": 778899001,
+    "nombre": "Roberto Arias",
+    "edad": 65,
+    "genero": "M",
+    "provincia": "Guanacaste",
+    "canton": "Nicoya",
+    "enfermedades": ["artritis"],
+    "medicamentos": ["ibuprofeno"]
+  },
+  {
+    "cedula": 889900112,
+    "nombre": "Patricia Mora",
+    "edad": 28,
+    "genero": "F",
+    "provincia": "Alajuela",
+    "canton": "Grecia",
+    "enfermedades": ["alergia", "asma"],
+    "medicamentos": ["loratadina", "salbutamol"]
+  },
+  {
+    "cedula": 990011223,
+    "nombre": "Andrés Vargas",
+    "edad": 42,
+    "genero": "M",
+    "provincia": "San Jose",
+    "canton": "Curridabat",
+    "enfermedades": ["gastritis"],
+    "medicamentos": ["omeprazol"]
+  },
+  {
+    "cedula": 123456789,
+    "nombre": "Gabriela Soto",
+    "edad": 59,
+    "genero": "F",
+    "provincia": "Limón",
+    "canton": "Siquirres",
+    "enfermedades": ["colesterol alto"],
+    "medicamentos": ["atorvastatina"]
+  }
+]
