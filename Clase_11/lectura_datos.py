@@ -20,3 +20,10 @@ def cargar_tabla_bccr(fuente=URL_BCCR):
     datos = tablas_web[2].copy()
     tablas_web.clear()
     return datos
+
+
+def mostrar_top_10(datos: pd.DataFrame) -> str:
+    """Muestra las primeras 10 entidades limpias."""
+    seleccion = ["ENTIDAD", "COMPRA", "VENTA", "DIFERENCIAL"]
+    top_10 = datos[seleccion].head(10).to_string(index=False)
+    return top_10
