@@ -1,0 +1,41 @@
+pais,region,puntuacion_bienestar,pib_per_capita,apoyo_social,esperanza_vida_saludable,libertad_decision,generosidad,percepcion_corrupcion
+Finland,Europa Occidental,7.804,1.888,1.585,0.535,0.772,0.126,0.535
+Denmark,Europa Occidental,7.586,1.949,1.548,0.537,0.734,0.208,0.525
+Germany,Europa Occidental,6.892,1.919,1.401,0.539,0.618,0.153,0.365
+Spain,Europa Occidental,6.436,1.798,1.491,0.567,0.533,0.101,0.157
+Costa Rica,America Latina y el Caribe,6.609,1.587,1.340,0.503,0.683,0.099,0.116
+Uruguay,America Latina y el Caribe,6.494,1.617,1.445,0.435,0.683,0.102,0.254
+Chile,America Latina y el Caribe,6.334,1.645,1.384,0.511,0.546,0.131,0.076
+Brazil,America Latina y el Caribe,6.125,,1.250,0.387,0.558,0.131,0.137
+Czechia,Europa Central y Oriental,6.845,1.823,1.544,0.477,0.693,0.158,0.050
+Lithuania,Europa Central y Oriental,6.763,1.808,1.511,0.432,0.487,0.059,0.089
+Romania,Europa Central y Oriental,6.589,1.726,1.280,0.423,0.631,0.044,0.000
+Poland,Europa Central y Oriental,6.260,1.767,1.474,0.477,0.511,0.120,0.139
+New Zealand,Norteamerica y ANZ,7.123,1.842,1.544,0.513,0.672,0.230,0.471
+Australia,Norteamerica y ANZ,7.095,1.899,1.497,0.532,0.677,0.242,0.310
+Canada,Norteamerica y ANZ,6.961,1.881,1.484,0.541,0.656,0.218,0.364
+United States,Norteamerica y ANZ,6.894,1.980,1.460,0.390,0.557,0.210,0.172
+Japan,Asia Oriental,6.129,1.825,1.396,0.622,0.556,0.009,0.207
+China,Asia Oriental,5.818,1.510,1.249,0.468,0.666,0.115,0.145
+Mongolia,Asia Oriental,5.840,1.379,1.494,0.244,0.425,0.239,0.058
+South Korea,Asia Oriental,5.951,1.853,1.188,0.603,0.446,0.112,0.163
+Singapore,Asia Sudoriental,6.587,2.168,1.354,0.607,0.660,0.170,0.561
+Malaysia,Asia Sudoriental,6.012,1.665,1.155,0.385,0.659,0.222,0.122
+Thailand,Asia Sudoriental,5.843,1.515,1.344,0.461,0.624,0.291,0.013
+Vietnam,Asia Sudoriental,5.763,1.349,1.212,0.381,0.741,0.134,0.122
+Nepal,Asia Meridional,5.360,0.979,1.027,0.281,0.567,0.215,0.104
+Pakistan,Asia Meridional,4.555,1.081,0.657,0.158,0.511,0.141,0.102
+Sri Lanka,Asia Meridional,4.442,1.422,1.224,0.426,0.539,0.120,0.086
+India,Asia Meridional,4.036,1.159,0.674,0.252,0.685,0.175,0.111
+Israel,Oriente Medio y Norte de Africa,7.473,1.833,1.521,0.577,0.569,0.124,0.158
+Saudi Arabia,Oriente Medio y Norte de Africa,6.463,1.861,1.370,0.351,0.682,0.093,0.170
+Morocco,Oriente Medio y Norte de Africa,4.903,,0.535,0.337,0.540,0.013,0.085
+Egypt,Oriente Medio y Norte de Africa,4.170,1.377,0.972,0.326,0.467,0.038,0.250
+Mauritius,Africa Subsahariana,5.902,1.589,1.382,0.336,0.574,0.121,0.110
+South Africa,Africa Subsahariana,5.275,1.417,1.428,0.149,0.464,0.090,0.019
+Kenya,Africa Subsahariana,4.487,1.051,0.881,0.190,0.418,0.291,0.055
+Ghana,Africa Subsahariana,4.605,1.101,0.756,0.197,0.526,0.211,0.035
+Kazakhstan,Comunidad de Estados Independientes,6.144,1.664,1.491,0.389,0.628,0.136,0.149
+Uzbekistan,Comunidad de Estados Independientes,6.014,1.227,1.347,0.375,0.740,0.260,0.208
+Kyrgyzstan,Comunidad de Estados Independientes,5.825,1.061,1.439,0.417,0.735,0.234,0.018
+Tajikistan,Comunidad de Estados Independientes,5.330,0.972,1.248,0.291,0.599,0.104,0.292
