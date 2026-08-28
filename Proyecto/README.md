@@ -16,4 +16,18 @@ El sistema permite identificar:
 
 Instalación rápida:
 ```bash
-pip install pandas matplotlib openpyxl
+pip install pandas matplotlib openpyxl streamlit
+```
+
+## Dashboard
+
+Inicia el dashboard desde la carpeta `Proyecto`:
+
+```bash
+streamlit run dashboard_productividad.py
+```
+
+El dashboard carga automáticamente el Excel predeterminado. Para actualizarlo
+cada mes, selecciona el nuevo archivo `.xlsx` desde la barra lateral.
+El archivo debe conservar las columnas `Date`, `Changed by`, `Full name` y
+`Transaction`. Se consideran órdenes los registros cuya transacción sea `VA02`.
